@@ -7,4 +7,4 @@ It is adapted from:
 
 Judd, Nicholas, Dan Drinkard, Jeremy Carbaugh, and Lindsay Young. *congressional-record: A parser for the Congressional Record.* Chicago, IL: 2017.
 
-Under a BD3 licence (please see LICENCE). I reproduce the code needed to create the dataset for this piece of work to make the project self-containing but all credit goes to Judd et al.
+I reproduce the code with modification under a BD3 licence. The appropriate copyright and conditions are included in LICENCE. I am grateful to Judd et al. and the Sunlight Foundation for their work.
