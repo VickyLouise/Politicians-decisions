@@ -13,3 +13,5 @@ The files should be run in the order of the numbers (lettered files can be run c
 2b. Data cleaning
 
 3. Modelling
+
+text_processing is a module used in Text analysis.
